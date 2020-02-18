@@ -1,5 +1,5 @@
 <template>
-  
+  <router-link to="#">点我</router-link>
 </template>
 
 <script>
